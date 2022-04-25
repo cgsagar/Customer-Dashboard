@@ -16,7 +16,7 @@ This is a customer dashboard app to show case all the customer data along with t
 - bootstrap icons
 
 # Demo
-For Live Demo, Please click here: <a href="#" target="_blank">DEMO</a>
+For Live Demo, Please click here: <a href="https://marvelous-buttercream-5d2840.netlify.app/" target="_blank">DEMO</a>
 
 # Features
 
